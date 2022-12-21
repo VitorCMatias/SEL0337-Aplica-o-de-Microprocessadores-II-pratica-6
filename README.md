@@ -18,7 +18,9 @@ Para desenvolver a aplicação responsáver por tirar fotos e gravar vídeos foi
 
 ![Foto com os nomes dos alunos](assets/pratica6-Marlon-Vitor.jpg)
 ![Foto de teste da camera](assets/pratica6.jpg)
-![Vídeo de teste](assets/rec.mp4)
+
+https://user-images.githubusercontent.com/43122957/208935095-85b7fcc1-3386-4008-a9a3-4f65f812eb6f.mp4
+
 
 Os arquivos foram convertidos para formatos mais convencionais de vídeo e imagem para que pudessem ser reproduzinos no GitHub. Além disso, o código desenvolvido nessa prática encontra-se em [camera.py](src/camera.py).
 
