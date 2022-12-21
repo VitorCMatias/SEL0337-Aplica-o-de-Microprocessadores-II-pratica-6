@@ -26,7 +26,7 @@ Os arquivos foram convertidos para formatos mais convencionais de vídeo e image
 
 ### API meteorológica
 
-Na segunda parte do experimento foi implementado um programa que consultoria dados meteorolégicos por meio de uma API e informa os dados para o usuário por meio do terminal.
+Na segunda parte do experimento foi implementado um programa que consultoria dados meteorolégicos por meio de uma API e informa os dados para o usuário por meio do terminal. O script desenvolvido para realizar essa atividade está presente no arquivo [weather.py](src/weather.py).
 Para realizar essa atividade foram utilizados os pacotes requests (cuja função é  tornar as solicitações HTTP mais simples e mais fáceis de usar) e pprint utilizado para realizar impreções mais amigaveis no terminal.
 
 ![Dados da API](assets/weather.jpg)
